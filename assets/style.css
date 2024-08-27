@@ -1,0 +1,22 @@
+          /* Name selector */
+          h2{
+            color: teal; 
+         }
+         /* Combination Selector*/
+        table,thead,tbody,td,tr,th{
+            border: 1px solid black
+        }
+        /* ID  selector*/
+        #experience{ 
+            color: aquamarine;
+        }
+        #techSkill{
+            color:teal;
+            text-decoration: underline;
+            font-weight:bold ;
+        }
+        .projectHeadings{
+            color:teal;
+            text-decoration: underline;
+            font-weight:bold ;
+        } 
